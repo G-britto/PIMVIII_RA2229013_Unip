@@ -1,0 +1,30 @@
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.exe.config
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.exe
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.pdb
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Google.Protobuf.dll
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\MySql.Data.dll
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Renci.SshNet.dll
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Google.Protobuf.xml
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\MySql.Data.xml
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\bin\Debug\Renci.SshNet.xml
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Proj_Control_Vendas_PIMVIII_Unip_2022_RA2229013.csproj.AssemblyReference.cache
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmDetalhe.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmdetalhes.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Proj_Control_Vendas_PIMVIII_Unip_2022_RA2229013.csproj.GenerateResource.cache
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Proj_Control_Vendas_PIMVIII_Unip_2022_RA2229013.csproj.CoreCompileInputs.cache
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Proj_Control_Vendas_PIMVIII_Unip_2022_RA2229013.csproj.CopyComplete
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.exe
+C:\Users\HITSS\OneDrive - HITSS DO BRASIL SERVIÇOS TECNOLOGICOS LTDA\Área de Trabalho\ProjetoUNIP\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.pdb
